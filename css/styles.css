@@ -853,7 +853,7 @@ letter-spacing: 0.48px;
 
 .accept-input:checked + .privacy-label > .check-span {
     background-color: var(--button-filter-hover);
-    border: none;
+
     fill: var(--logo-down);
 }
 
